@@ -2,7 +2,7 @@
   <!-- ANCHOR - Header ========== -->
   <div id="header" class="h-12 bg-gray-900 shadow-lg flex text-white">
     <div class=" my-auto ml-4">
-      <a class="font-bold text-lg sm:text-2xl cursor-pointer font-serif">File Manager</a>
+      <a class="font-bold text-md sm:text-2xl cursor-pointer font-serif">Documentation</a>
     </div>
     <div class=" my-auto ml-auto mr-4">
       <ul class="flex gap-2">
@@ -12,5 +12,4 @@
     </div>
   </div>
   <!-- ========== End Header ========== -->
-
 </div>
